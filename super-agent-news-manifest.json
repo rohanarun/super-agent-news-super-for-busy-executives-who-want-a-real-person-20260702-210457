@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-executives-productivity.html)",
+    "[theaicronicle.com](https://theaicronicle.com/en/news/tools/super-agents-connecting-enterprise-software)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[cnbc.com](https://www.cnbc.com/2026/03/24/anthropic-claude-computer-use-ai-agents.html)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-open-source-ai-agents)"
+  ],
+  "design_plan": "rng_seed=42; audience=busy_executives; architecture=reuse_comparison_template; AIDA=pass; hero_line_count=2.4; bento_density=grid-auto-flow:dense; competitors_checked=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=AA+",
+  "generated_at": "2026-07-02T21:05:04.619881+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for busy executives who want a real personal assistant \u2014 not another chatbot. This page positions Super as a personal AI agent that actually operates computers and reuses a computer-use cache, grounded in current reporting on agentic AI, executive productivity, and computer\u2011using assistants."
+}
